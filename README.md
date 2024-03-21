@@ -28,7 +28,7 @@ Welcome to my GitHub profile! As a Full Stack Web Developer with over a decade y
 
 ## Skills 🛠️
 
-- **Programming Languages**:  Proficiency in HTML, CSS, JavaScript (including ES6+ features), and server-side languages such as Python, Node.JS, PHP and .NET
+- **Programming Languages**:  Proficiency in HTML, CSS, JavaScript (including ES6+ features), and server-side languages such as Rust, C++, C# Python, Node.JS, PHP and .NET
 - **Frameworks and Libraries**: Experience with front-end frameworks and libraries such as React, Angular, Vue.js, and back-end frameworks like Express, Django, Laravel, ASP.NET….
 - **Database Management**: Skilled in both SQL (e.g., PostgreSQL, MySQL) and NoSQL (e.g., MongoDB, Cassandra, Redis) databases, understanding database design, and the ability to write complex queries.
 - **API Development**: Knowledge in creating and integrating RESTful and GraphQL APIs, understanding of API security best practices.
