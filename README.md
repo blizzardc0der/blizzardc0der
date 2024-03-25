@@ -1,7 +1,7 @@
 # 🚀 Software Engineer | Rust | Solidity 🦀
 
 ## Introduction 👋
-Welcome to my GitHub profile! As a Full Stack Web Developer with over a decade years of experience, I have honed a comprehensive skill set in both front-end and back-end technologies, specializing in creating scalable, high-performance web applications. My journey has been marked by successful collaborations on diverse projects, ranging from startup ventures to large-scale enterprise solutions, demonstrating a proven ability to adapt and excel in various development environments. Passionate about leveraging the latest technologies to solve complex problems, I bring a track record of innovation and efficiency, aiming to drive forward the future of web development.
+Welcome to my GitHub profile! As a Full Stack Web Developer with over 5 years of experience, I have honed a comprehensive skill set in both front-end and back-end technologies, specializing in creating scalable, high-performance web applications. My journey has been marked by successful collaborations on diverse projects, ranging from startup ventures to large-scale enterprise solutions, demonstrating a proven ability to adapt and excel in various development environments. Passionate about leveraging the latest technologies to solve complex problems, I bring a track record of innovation and efficiency, aiming to drive forward the future of web development.
 
 <br/>
 
